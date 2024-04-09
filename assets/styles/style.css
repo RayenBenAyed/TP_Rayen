@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color:firebrick;
+}
+
+h1, h2 {
+    font-weight: normal;
+    margin-bottom: 10px;
+    color:lightgoldenrodyellow;
+}
+/*style pour titre*/
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+}
+/*arrondir image*/
+.Accueil Page Web Tunisie img:hover{
+    -ms-transform: scale(1); /* IE 9 */
+      -webkit-transform: scale(1); /* Safari 3-8 */
+       transform: scale(1);
+       display: block;
+       margin: 0 auto;6
+       max-width: 30%;
+       height: auto;
+       border-radius: 50px;
+   }
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color:lightgoldenrodyellow;
+}
+
+th,
+td {
+    border: 2px solid maroon;
+    padding: 10px;
+    text-align: left;
+}
+
+a {
+    color:gold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgba(0, 255, 200, 0.995);
+    text-decoration: underline;
+}
+
+details summary {
+    cursor: pointer;
+}
+
+.nav>li {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid black;
+		background-color:greenyellow;
+    padding: 20px;
+}

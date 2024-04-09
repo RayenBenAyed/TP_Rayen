@@ -1,0 +1,49 @@
+header {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  nav {
+    background-color: #000000;
+  }
+  nav ul {
+    margin: 0;
+    padding: 0;
+    margin: 0;
+    padding: 0;
+  }
+  nav ul li {
+    display: inline;
+    
+  }
+  nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+  }
+  nav ul li a:hover {
+    background-color: green;
+  }
+  body{
+    color:white;
+     background-color: red;
+  }
+  
+section h2 {
+color:white;
+}
+body h2 {
+    color:white
+}
+body p {
+    color:white
+}
+  
+ body {
+    background-color: red;
+ } 
+
+  
+  
+  
+  
